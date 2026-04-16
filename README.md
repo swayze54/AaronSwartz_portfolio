@@ -1,7 +1,7 @@
 # Aaron Swartz - Portfolio
 
 ## Projects
-### .jpeg image recovery promgram using C
+### .jpeg image recovery program using C
 - Program that will recover .jpeg deleted images from memory cards initialized with FAT system
 - [Github Repository](https://github.com/swayze54/Recovery/tree/main)
 
