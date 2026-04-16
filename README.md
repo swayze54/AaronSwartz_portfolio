@@ -15,4 +15,4 @@
 
 # Education 
 - University of Kentucky
-- MS Electrical Engineering
+- MS Electrical Engineering (2017-2024)
