@@ -1,11 +1,11 @@
-# AaronSwartz_portfolio
+# Aaron Swartz
 
 ## Projects
 ### .jpeg image recovery promgram using C
 - Program that will recover .jpeg deleted images from memory cards initialized with FAT system
 - [Github Repository](https://github.com/swayze54/Recovery/tree/main)
 
-### Project 2
+### 7-Day Average
 - Program uses the New York Times repository of live, cumulative COVID cases to create a 7-day average and compares this week's average to the previous week.
 - [Github Repository](https://github.com/swayze54/7-Day-Average)
 
