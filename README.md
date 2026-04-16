@@ -11,7 +11,7 @@
 
 # Publications 
 - Aaron Swartz, “Measurement of Moisture Levels in Oils and Lubricants Using a Novel Moisture Sensor” (2025). Theses and Dissertations--Electrical and Computer Engineering. 219.
-- [University of Kentucky UKnowledge]([https://uknowledge.uky.edu/cgi/preview.cgi?article=1002&context=ece_gradpub](https://uknowledge.uky.edu/ece_gradpub/2/))
+- [University of Kentucky UKnowledge](https://swayze54.github.io/AaronSwartz_portfolio/)
 
 # Education 
 - University of Kentucky
