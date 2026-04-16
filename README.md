@@ -1,4 +1,4 @@
-# Aaron Swartz
+# Aaron Swartz - Portfolio
 
 ## Projects
 ### .jpeg image recovery promgram using C
